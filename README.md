@@ -7,4 +7,7 @@ Feature list
  3. Delete a User
  4. User µservice API
  5. User µservice IMPL
- 6. 
+ 6. Integration with scalaJS
+ 7. uDash
+ 8. Diode
+ 9. Slick
